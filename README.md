@@ -1,7 +1,7 @@
-### Hi there 👋 ! Eu sou o Henrique Camargo estou a caminho de me tornar um Dev
+### Hi there 👋 ! Eu sou o Henrique Camargo
 
 - 🔭 I’m currently working FrontEnd
-- 🌱 I’m currently learning ... Analise e Desenvolvimento De Sistema 
+- 🌱 I’m currently learning ... Analise e Desenvolvimento De Sistems  Angular 9 + Spring Boot
 
 <div align="center">
   <a href="https://github.com/henry1end">
