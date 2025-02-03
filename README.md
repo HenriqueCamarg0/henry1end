@@ -4,10 +4,10 @@
 - 🌱 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente participo de bootcamps voltados para Cloud, AI e Java. Recentemente, participei de uma imersão Frontend onde recriei a página inicial do Spotify e recebi o desafio de reconstruí-la utilizando o framework Angular. O repositório do projeto em andamento pode ser acessado no meu [GitHub](https://github.com/henry1end).  
 
 <div align="center">
-  <a href="https://github.com/henry1end">
+  <a href="https://github.com/HenriqueCamarg0">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henry1end&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/henry1end">
+  <a href="https://github.com/HenriqueCamarg0 ">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry1end&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
