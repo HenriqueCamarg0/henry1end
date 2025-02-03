@@ -5,8 +5,11 @@
 
 <div align="center">
   <a href="https://github.com/henry1end">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henry1end&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry1end&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henry1end&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/henry1end">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry1end&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
 
 ### 🚀 Tecnologias  
